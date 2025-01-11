@@ -33,4 +33,17 @@ This is a personal portfolio website built with **React** and **Vite**. The webs
 ---
 
 ## Project Structure
+![Project structure](structure.png)
+
+
+---
+
+## Deployment
+
+The website is deployed using **Netlify**.  
+
+### Live Link:
+[Portfolio Website](https://aben-dhi-portfolio.netlify.app/)
+
+---
 
