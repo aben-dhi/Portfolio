@@ -29,6 +29,18 @@ function Contact() {
             required
           />
         </div>
+		<div className="formGroup">
+          <label htmlFor="message" hidden>
+            Message
+          </label>
+          <textarea
+           	id="message" 
+            name="message" 
+            placeholder="Message" 
+            required>
+          </textarea>
+        </div>
+		<input className="hover btn" type="submit" value="Submit" />
       </form>
     </section>
   );
