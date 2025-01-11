@@ -2,7 +2,7 @@
 
 This is a personal portfolio website built with **React** and **Vite**. The website showcases various sections, including a hero section, projects, skills, and a contact form. It also includes a theme toggle feature to switch between light and dark modes.
 
-![Hero Section]()
+![Hero Section](herosection.png)
 ---
 
 ## Features
