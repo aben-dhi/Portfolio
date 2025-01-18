@@ -37,7 +37,7 @@ function Hero() {
 					<br/>
 					Ben Dhia
 				</h1>
-				<h2>Junior Data Scientist</h2>
+				<h2>Junior Software Developer</h2>
 				<span>
 					<a href="https://linkedin.com/in/amira-ben-dhia-4641a426a" target='_blank'>
 						<img src={linkedinIcon} alt="LinkedIn icon"/>

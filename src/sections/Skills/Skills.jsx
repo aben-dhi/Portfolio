@@ -23,6 +23,7 @@ function Skills() {
 		<SkillList src={checkMarkIcon} skill="Excel" />
 		<SkillList src={checkMarkIcon} skill="Tableau" />
 		<SkillList src={checkMarkIcon} skill="Power BI" />
+		<SkillList src={checkMarkIcon} skill="React" />
 	</div>
 	<hr/>
 	<div className={styles.skillList}>
@@ -30,6 +31,7 @@ function Skills() {
 		<SkillList src={checkMarkIcon} skill="Numpy" />
 		<SkillList src={checkMarkIcon} skill="Matplotlib" />
 		<SkillList src={checkMarkIcon} skill="git" />
+		<SkillList src={checkMarkIcon} skill="Git" />
 	</div>
   </section>
   );
